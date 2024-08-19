@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi there! I'm a Backend Developer specializing in **Golang** with experience in mobile development, system analysis, and various frontend technologies.
 
-<!--
-**CheaKKyDoW/CheaKKyDoW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎨 Interested in **Blockchain systems** and enhancing my skills in distributed technologies.
+- 🌱 Currently learning more about **DevOps**.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Technologies
+Here are some of the technologies I've worked with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+![Go](https://skillicons.dev/icons?i=go)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![CSharp](https://skillicons.dev/icons?i=cs)
+![SQL](https://skillicons.dev/icons?i=sql)
+
+### Databases & Tools
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![Redis](https://skillicons.dev/icons?i=redis)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![GraphQL](https://skillicons.dev/icons?i=graphql)
+
+### Frontend & Frameworks
+![React](https://skillicons.dev/icons?i=react)
+
+### Version Control & CI/CD
+![Git](https://skillicons.dev/icons?i=git)
+![Docker](https://skillicons.dev/icons?i=docker)
+![NPM](https://skillicons.dev/icons?i=npm)
+![PNPM](https://skillicons.dev/icons?i=pnpm)
+
+### Tools
+![Postman](https://skillicons.dev/icons?i=postman)
+
+---
+
+Thanks for visiting my profile! Have a great day 😄
+
