@@ -11,7 +11,6 @@ Here are some of the technologies I've worked with:
 ![Go](https://skillicons.dev/icons?i=go)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![CSharp](https://skillicons.dev/icons?i=cs)
-![NEXTJS](https://skillicons.dev/icons?i=nextjs)
 
 ### Databases & Tools
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
@@ -20,6 +19,7 @@ Here are some of the technologies I've worked with:
 ![GraphQL](https://skillicons.dev/icons?i=graphql)
 
 ### Frontend & Frameworks
+![NEXTJS](https://skillicons.dev/icons?i=nextjs)
 ![React](https://skillicons.dev/icons?i=react)
 
 ### Version Control & CI/CD
