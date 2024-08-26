@@ -11,8 +11,8 @@ Here are some of the technologies I've worked with:
 ![Go](https://skillicons.dev/icons?i=go)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![CSharp](https://skillicons.dev/icons?i=cs)
-![SQL](https://skillicons.dev/icons?i=sql)
 ![NEXTJS](https://skillicons.dev/icons?i=nextjs)
+![SQL](https://skillicons.dev/icons?i=sql)
 
 ### Databases & Tools
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
